@@ -1,0 +1,21 @@
+_id: req_b9f440fad23245e29bd58961074333a2
+type: Request
+parentId: fld_694d03f70c074decb545c806dc8a3110
+modified: 1668448500884
+created: 1668448493776
+url: "{{ _.base_url }}/questions/random/2"
+name: Random 2 Questions
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668443232952
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

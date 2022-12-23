@@ -1,0 +1,43 @@
+_id: req_e3437fb2c1c2475aba1b063e7c108864
+type: Request
+parentId: fld_694d03f70c074decb545c806dc8a3110
+modified: 1669826600262
+created: 1668448460468
+url: "{{ _.base_url }}/questions"
+name: Create Question 3
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"text": "Quel est ton genre ?",
+    	"answers" : [
+    		{
+    			"text": "Homme"
+    		},
+    		{
+    			"text": "Femme"
+    		},
+    		{
+    			"text": "Non Binaire"
+    		},
+    		{
+    			"text": "Autre"
+    		}
+    	]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_a10b4a27fe9a44e4b3aa29f5d357b808
+authentication: {}
+metaSortKey: -1668443233127
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,28 @@
+_id: req_9f66288446874c849d64200326d79878
+type: Request
+parentId: fld_591b9f7cd64e46bc81a73411a0ff7f71
+modified: 1669890351515
+created: 1669890303676
+url: "{{ _.base_url }}/user/answers"
+name: Add Answers
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: "[21,22]"
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication:
+  type: bearer
+  token: eyJhbGciOiJSUzI1NiIsImtpZCI6Ijk1MWMwOGM1MTZhZTM1MmI4OWU0ZDJlMGUxNDA5NmY3MzQ5NDJhODciLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vYXJiZW5uLWI1NmFiIiwiYXVkIjoiYXJiZW5uLWI1NmFiIiwiYXV0aF90aW1lIjoxNjY5ODg5MDM0LCJ1c2VyX2lkIjoiajM2dHlYd3loalJqQ2JodXpIaEdCYWdpcnlQMiIsInN1YiI6ImozNnR5WHd5aGpSakNiaHV6SGhHQmFnaXJ5UDIiLCJpYXQiOjE2Njk4ODkwMzQsImV4cCI6MTY2OTg5MjYzNCwiZW1haWwiOiJwcmFra21ha0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJwcmFra21ha0BnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJwYXNzd29yZCJ9fQ.EC8qFwla7b8ZTDOgoSgy_6pwCpkXkxdLW6z1x-6KL8I2ZUnb42u7XCOBqLQhUdaso4jWfOsbFZeHGQQ6TN4uM38QSle5AoWuasLxUym3L5M4gEDI-v2bDMkOkBEbQI3Fz1ERnePD6B8wGXMk5Krp3AtZV9e0LP9lyrv09fZYH_y1mlHtmaKWzBlMqW0mvy2tSFSu8-A-RjW4ISyP9EoAzMAeiG4rURRsLLmmMLhkuZaZlKf3WKECOFwxyJu4tzziz3QwGWenkDiBlOS-aWlojgus8XH7fzbZGZKMUDG7FtvcLTObhQ_aYMeNRRbDgF3Iajh-1RZIe-uO4iSJrLvWNw
+  disabled: false
+metaSortKey: -1668682711348
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

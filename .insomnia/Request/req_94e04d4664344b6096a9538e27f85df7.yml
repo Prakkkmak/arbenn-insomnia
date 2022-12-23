@@ -1,0 +1,30 @@
+_id: req_94e04d4664344b6096a9538e27f85df7
+type: Request
+parentId: fld_694d03f70c074decb545c806dc8a3110
+modified: 1668789256650
+created: 1668532886657
+url: "{{ _.base_url }}/questions"
+name: Create Question Without Answer
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "text": "Bonjour",
+      "answers" : []
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_a10b4a27fe9a44e4b3aa29f5d357b808
+authentication: {}
+metaSortKey: -1668443235061
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

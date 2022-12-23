@@ -1,0 +1,21 @@
+_id: req_3c3e19f24445443c832f0e5b1374f801
+type: Request
+parentId: fld_a609b7cd4ece47fa85a58f04cf77b4f4
+modified: 1668786543220
+created: 1668786512523
+url: "{{ _.base_url }}/answers/groups/1"
+name: Find a group
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668579469086.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

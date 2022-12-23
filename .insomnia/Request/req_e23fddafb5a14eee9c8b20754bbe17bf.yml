@@ -1,0 +1,43 @@
+_id: req_e23fddafb5a14eee9c8b20754bbe17bf
+type: Request
+parentId: fld_694d03f70c074decb545c806dc8a3110
+modified: 1670179549802
+created: 1668443236970
+url: "{{ _.base_url }}/questions"
+name: Create Question 1
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "text": "Quelle est ta séxualité ?",
+      "answers" : [
+        {
+          "text": "Hétéro"
+        },
+        {
+          "text": "Bi"
+        },
+        {
+          "text": "Verte"
+        },
+        {
+          "text": "Jaune"
+        }
+      ]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_a10b4a27fe9a44e4b3aa29f5d357b808
+authentication: {}
+metaSortKey: -1668443236970
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

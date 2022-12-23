@@ -1,0 +1,30 @@
+_id: req_442128e9d9b94d41999761fe4a42f3b3
+type: Request
+parentId: fld_541cf225b15b41749b1198cb5c33339f
+modified: 1669889030253
+created: 1669576305860
+url: https://identitytoolkit.googleapis.com/v1/accounts:signUp?key={{firebaseApiKey}}
+name: Sign Up
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"email": "prakkmak@gmail.com",
+    	"password": "testtest",
+    	"returnSecureToken" : true
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1669576305860
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

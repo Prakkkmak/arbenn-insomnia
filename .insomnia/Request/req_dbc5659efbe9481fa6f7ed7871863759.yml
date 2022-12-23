@@ -1,0 +1,21 @@
+_id: req_dbc5659efbe9481fa6f7ed7871863759
+type: Request
+parentId: fld_694d03f70c074decb545c806dc8a3110
+modified: 1668534949587
+created: 1668448215454
+url: "{{ _.base_url }}/questions/2"
+name: Find a Question
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1668443233052
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

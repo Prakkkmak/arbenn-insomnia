@@ -1,0 +1,21 @@
+_id: req_8cdc816b584f470494f37d5357cbc4cc
+type: Request
+parentId: fld_16cb2159766746008c7f9e981c76743f
+modified: 1671562858866
+created: 1671374300917
+url: "{{ _.base_url }}/ping"
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1671374300917
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

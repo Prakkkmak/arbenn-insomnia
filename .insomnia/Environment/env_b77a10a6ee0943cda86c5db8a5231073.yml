@@ -1,0 +1,22 @@
+_id: env_b77a10a6ee0943cda86c5db8a5231073
+type: Environment
+parentId: env_f788a01e15af63010240aa2fbf557ae02756feba
+modified: 1669576490323
+created: 1668443264119
+name: Arbenn Localhost
+data:
+  base_url: "{{protocol}}://{{domain}}{{path}}"
+  protocol: http
+  domain: localhost:8080
+  path: ""
+  firebaseApiKey: AIzaSyAR8x8-O9VASmZE3ngXKO5ZXGMis5CwMZc
+dataPropertyOrder:
+  "&":
+    - base_url
+    - protocol
+    - domain
+    - path
+    - firebaseApiKey
+color: "#7d69cb"
+isPrivate: false
+metaSortKey: 1668443264119

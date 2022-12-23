@@ -1,0 +1,25 @@
+_id: req_72d468eecdb249f99fb99829c9a39019
+type: Request
+parentId: fld_a609b7cd4ece47fa85a58f04cf77b4f4
+modified: 1668786487986
+created: 1668785299755
+url: "{{ _.base_url }}/answers/groups"
+name: Create Group
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: "[5, 10]"
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1668535789761
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
